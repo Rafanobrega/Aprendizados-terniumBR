@@ -3,8 +3,8 @@
 ## Perfil
 
 * **Estudante de:** Análise e Desenvolvimento de Sistemas (4º Período)
-* **Atuação:** Estagiário no Time de IT HR (Tecnologia da Informação - Recursos Humanos), com foco no desenvolvimento de habilidades de Analista.
-* **Período do Estágio:** 11/11/2024 – Contrato em andamento. 
+* **Atuação:** Estagiário no Time IT HR, com foco no desenvolvimento de habilidades de Analista.
+* **Período do Estágio:** 11/11/2024 – 10/11/2026. 
 
 ---
 
@@ -63,18 +63,11 @@ Nesta nova fase do estágio, após a transição para o setor IT HR, minhas ativ
 
 **Habilidades Desenvolvidas:** Análise de dados cadastrais, entendimento de sistemas corporativos, suporte técnico ao usuário final.
 
-**Status:** Em andamento (atividade contínua).
+**Status:** finalizado, projeto entregue. 
 
----
 
-## Próximos Passos e Objetivos de Desenvolvimento
 
-* Aprimorar conhecimentos em VBA para entregar soluções mais robustas e fáceis de manter.
-* Aprofundar entendimento dos fluxos e sistemas de controle de ponto e acesso.
-* Melhorar capacidade de análise de dados para detectar e corrigir inconsistências mais rapidamente.
-* Desenvolver habilidades de documentação técnica e comunicação com usuários de negócio.
 
----
 
 ## Informações de Contato
 
