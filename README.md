@@ -3,7 +3,7 @@
 ## Perfil
 
 * **Estudante de:** Análise e Desenvolvimento de Sistemas (4º Período)
-* **Atuação:** Estagiário no Time IT HR, com foco no desenvolvimento de habilidades de Analista.
+* **Atuação:** Estagiário no Time IT HR, com foco no desenvolvimento de habilidades de um Funcional.
 * **Período do Estágio:** 11/11/2024 – 10/11/2026. 
 
 ---
